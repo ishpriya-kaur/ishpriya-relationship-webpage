@@ -29,3 +29,10 @@ body.result-page {
       text-align: center;
     }
   }
+
+  img {
+    display: block;
+    margin: 20px auto;
+    max-width: 80%;
+    border-radius: 10px;
+  }
