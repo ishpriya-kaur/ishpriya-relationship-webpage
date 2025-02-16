@@ -1,0 +1,17 @@
+/* result-styles.css */
+body.result-page {
+    background-color: #f0f8ff;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+  }
+  h1.result-text {
+    font-size: 28px;
+    color: #8C2155;
+    border: 2px solid #8C2155;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #FFDAD6;
+    white-space: pre-line; /* Allows line breaks when using \n in JavaScript */
+  }
