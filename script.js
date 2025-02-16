@@ -6,7 +6,6 @@ document.getElementById('relationshipForm').addEventListener('submit', function(
     switch(name) {
       case 'divjot':
         displayText =  displayText = 'I love you Dj! \nI want you to know that you are really special to me and I cherish every moment we spend together. You make my life happier and my days less stressful. You are my bestfriend, my boyfriend, my gossip partner and everything a person needs to stay happy in life. You are just the perfect addition to my life.\n\nYours,\nIshpriya';
-        <img src="./images/divjot.jpg" height="50" width="50" />
         break;
       case 'meenu':
         displayText = 'T2: TFM (mom)';
