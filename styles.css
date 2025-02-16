@@ -42,3 +42,17 @@ body {
     font-size: 18px;
     color: #555;
   }
+
+  /*other devices configuration for appearance */
+  @media only screen and (max-width: 600px) {
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+    h1, form, .result-text {
+      text-align: center;
+    }
+  }
